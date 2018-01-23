@@ -1,0 +1,17 @@
+.navbar-dark .navbar-brand {
+  color: #f44336;
+}
+
+.jumbotron {
+  background-image: url(jumbotron-background.jpg);
+  background-size: cover;
+}
+
+.jumbotron h1 {
+  font-weight: bold;
+  color: white
+}
+
+.jumbotron img {
+  height: 250px;
+}
